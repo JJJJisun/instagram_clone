@@ -1,3 +1,4 @@
 # instagram_clone
-![splash](https://user-images.githubusercontent.com/42526264/147732931-7da74cfc-2080-4314-9da9-a0759c477804.jpg)
-![main](https://user-images.githubusercontent.com/42526264/147732975-64c32d5c-0ece-495c-a432-8f01594e0f71.jpg)
+#### <실제 앱 화면>
+
+![Frame 5](https://user-images.githubusercontent.com/42526264/147738057-77ec4fce-4eb5-4fd2-9258-66a1f04d8407.png)
