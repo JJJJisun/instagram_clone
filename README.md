@@ -1,5 +1,5 @@
 # instagram_clone
-recyclerview, listview를 활용하여 클론코딩
+recyclerview, listview를 활용하여 클론코딩해본 앱
 
 + <실제 앱 화면>
 
